@@ -1,0 +1,14 @@
+# Ignore Python-related files
+venv/
+__pycache__/
+*.sqlite3
+.env
+
+# Ignore Node.js-related files
+node_modules/
+dist/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+ 
